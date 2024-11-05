@@ -182,6 +182,11 @@ upgrades = [
         cost: 1000,
         amount: 100,
     },
+    {
+        name: 'Grävmaskin2',
+        cost: 10000,
+        amount: 1000,
+    }
 ];
 
 /* createCard är en funktion som tar ett upgrade objekt som parameter och skapar
